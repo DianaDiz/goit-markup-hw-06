@@ -170,9 +170,6 @@ rgba(47, 48, 58, 0.4),
 rgba(47, 48, 58, 0.4)
 ),
 url(../images/heroImg\ \(1\).jpg);
-/* background-repeat: no-repeat;
-background-position: center;
-background-size: cover; */
 max-width: 1600px;
 margin: 0 auto;
 text-align: center;
@@ -781,5 +778,17 @@ font-size: 12px;
 line-height: 1.17;
 letter-spacing: 0.01em;
 color: rgba(117, 117, 117, 0.5);
+
+}
+
+.agreement {
+font-weight: 400;
+font-size: 14px;
+line-height: 1.71;
+letter-spacing: 0.03em;
+color: #757575;
+}
+
+.modal-btn {
 
 }
